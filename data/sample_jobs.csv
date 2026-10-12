@@ -1,0 +1,5 @@
+job_id,title,required_skills,description
+1,Python Developer,Python;SQL;Git;REST API,Develop backend applications using Python
+2,Frontend Developer,HTML;CSS;JavaScript;React,Build responsive web interfaces
+3,Data Analyst,Python;SQL;Excel;Power BI,Analyze data and prepare reports
+4,Machine Learning Intern,Python;SQL;Machine Learning;Pandas,Build and evaluate ML models
